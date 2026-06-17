@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoGLM Mobile Agent</string>
+    <string name="accessibility_service_label">AutoGLM 手机 Agent</string>
+    <string name="accessibility_service_description">读取当前屏幕、截图并执行点击、输入、滑动等操作，用于用户主动发起的 AI 手机自动化任务。</string>
+</resources>
